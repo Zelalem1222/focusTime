@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "focustime",
     "slug": "snack-7a40c426-52ac-4af6-8a06-d815cde01197",
+=======
+    "name": "project",
+    "slug": "project",
+>>>>>>> 76d248a456fb1eeaca5da2b888eb067fbb4cae75
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,4 +35,8 @@
       "favicon": "./assets/favicon.png"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 76d248a456fb1eeaca5da2b888eb067fbb4cae75

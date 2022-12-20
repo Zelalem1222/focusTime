@@ -1,12 +1,19 @@
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { TextInput } from 'react-native-paper';
+<<<<<<< HEAD
 import { RoundedButton } from '../components/RoundedButton'
+=======
+import { RoundedButton } from '../components/RoundedButton';
+>>>>>>> 76d248a456fb1eeaca5da2b888eb067fbb4cae75
 import { spacing } from '../utils/size'
 
 export const Focus = ({ addSubject }) => {
   const [subject, setSubject] = useState(null);
+<<<<<<< HEAD
   console.log(subject);
+=======
+>>>>>>> 76d248a456fb1eeaca5da2b888eb067fbb4cae75
   return (
     <View style={styles.container}>
       <View style={styles.inputContainer}>
